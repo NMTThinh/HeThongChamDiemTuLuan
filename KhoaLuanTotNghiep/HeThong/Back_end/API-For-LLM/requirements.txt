@@ -1,0 +1,5 @@
+fastapi # dung de xay dung API
+uvicorn # dung de chay ung dung API
+ollama # dung de giao tiep voi Ollama
+python-dotenv # dung de tai tep bien moi truong
+requests # dung de gui yeu cau khi check API 
